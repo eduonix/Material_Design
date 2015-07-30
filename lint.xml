@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<lint>
+    <issue id="NewApi">
+        <ignore path="src/br/liveo/adapter/NavigationLiveoAdapter.java" />
+        <ignore path="src/br/liveo/navigationliveo/NavigationLiveo.java" />
+    </issue>
+</lint>
